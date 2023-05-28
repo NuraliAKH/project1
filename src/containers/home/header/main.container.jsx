@@ -1,6 +1,6 @@
 import React from "react";
 import learningGirl from '../../../assets/Learning languages-bro 1.png'
-
+import './main.container.css'
 const lampoSvg = (
   <svg
     width="83"
@@ -85,7 +85,7 @@ export default function MainContainer() {
     <div className="main-container">
       <div className="main-container-details">
         <p className="main-container-details-title">
-          Learn Any Foreign Language
+          Learn <br /> Any Foreign <br /> Language
           <span>{lampoSvg}</span>
         </p>
         <p className="main-container-details-description">

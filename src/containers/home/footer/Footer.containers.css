@@ -1,0 +1,13 @@
+.footer_container{
+    margin-top: 158px;
+}
+.footer_content{
+    margin: 0;
+    margin-top: 31px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+}
+li{
+    list-style-type: none;
+}

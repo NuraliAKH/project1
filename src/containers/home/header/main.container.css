@@ -1,0 +1,43 @@
+.main-container{
+    display: flex;
+    margin: 77px 0 0 0;
+}
+.main-container-details-title {
+    margin: 0;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+}
+
+.main-container-details-title span {
+    position: absolute;
+    top: 248px;
+    left: 591px;
+}
+
+.main-container-details-description {
+    width: 420px;
+    margin-top: 27px;
+    color: var(--secondaryColor);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.main-container-details-btn {
+    width: 292px;
+    height: 80px;
+    text-align: center;
+    justify-content: center;
+    font-weight: 400;
+    margin-top: 11px;
+    font-size: 24px;
+    background-color: var(--thirdColor);
+    color: var(--bgColor1);
+    border-radius: 5px;
+}
+.main-container-image{
+    position: absolute;
+    right: 288px;
+    top: 146px;   
+}

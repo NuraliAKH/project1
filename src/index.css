@@ -16,5 +16,6 @@ body {
   --mainColor: #000000;
   --secondaryColor: #8F95A5; 
   --thirdColor: #263238;
-  --bgColor1: #EEEEEE
+  --bgColor1: #EEEEEE;
+  --bgColor2: #F5F5F5;
 }

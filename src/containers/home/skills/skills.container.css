@@ -1,0 +1,115 @@
+.skills_container {
+    margin-top: 75px;
+}
+
+.skills {
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 80px;
+    color: var(--mainColor);
+    margin-bottom: 52px;
+}
+
+.skill_speaking {
+    background-color: var(--bgColor2);
+    width: 303px;
+    height: 696px;
+    border-radius: 10px;
+}
+
+.skill_image {
+    margin: 0 21.5px;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.skill_title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    margin: 16px 0 0 25px;
+}
+
+.skill_desc {
+    color: var(--secondaryColor);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    margin: 15px 15px 0 24px;
+}
+
+.skill_btn {
+    width: 196px;
+    height: 57px;
+    text-align: center;
+    justify-content: center;
+    background-color: var(--thirdColor);
+    margin: 28px 15px 0 24px;
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--bgColor1);
+    border-radius: 5px;
+}
+
+.writing_skill {
+    width: 302px;
+    height: 441px;
+    background-color: var(--bgColor2);
+    border-radius: 10px;
+
+}
+.d-flex{
+    display: flex;
+    gap: 13px;
+}
+.skill_image_writing{
+    margin: 6px 0 -28px 86px;
+}
+.skill_desc_writing{
+    color: var(--secondaryColor);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    margin: 9px 17px -5px 27px;
+}
+.reading_skill{
+    width: 302px;
+    height: 441px;
+    background-color: var(--bgColor2);
+    border-radius: 10px;
+}
+.skill_image_reading{
+    margin: 15px 0px 5px 0px;
+}
+.listening_skill{
+    width: 616px;
+    height: 241px;
+    background-color: var(--bgColor2);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.skill_title_listening{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    margin: 30px 0 0 25px;
+}
+.skill_btn_listening{
+    width: 196px;
+    height: 57px;
+    text-align: center;
+    justify-content: center;
+    background-color: var(--thirdColor);
+    margin: 25px 15px 0 25px;
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--bgColor1);
+    border-radius: 5px;
+}
+.skill_image_listening{
+    width: 254px;
+height: 169px;
+margin: 0;
+}

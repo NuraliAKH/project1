@@ -1,0 +1,39 @@
+.contact_container{
+    margin-top: 136px;
+    display: flex;
+}
+.contact_image{
+    margin: 3px 0 0 -22px;
+}
+.contact_title{
+    font-weight: 600;
+font-size: 36px;
+margin: 13px 0 0 123px;
+}
+
+.contact_desc{
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--secondaryColor);
+    margin: 15px 69px 0px 110px;
+}
+.contact_input input{
+    width: 323px;
+height: 60px;
+font-weight: 400;
+font-size: 14px;
+border: 1px solid #8F95A5;
+border-radius: 10px;
+margin: 34px 8px 0 109px;
+}
+.contact_input button{
+    width: 193px;
+height: 60px;
+background-color: var(--thirdColor);
+font-weight: 500;
+font-size: 16px;
+color: var(--bgColor1);
+border-radius: 10px;
+margin: 0;
+}
+

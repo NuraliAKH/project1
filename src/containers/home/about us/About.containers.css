@@ -1,0 +1,40 @@
+.about_us {
+    display: flex;
+    margin-top: 120px;
+}
+
+.about_title {
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--mainColor);
+    margin: 0 0 0 -3px;
+}
+
+.about_desc {
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--secondaryColor);
+    margin: 24px 0 0 -3px;
+}
+
+.about_info {
+    display: flex;
+    text-align: center;
+}
+
+.info {
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--secondaryColor);
+    margin: 29px 51px 0px 4px;
+}
+
+.info span {
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--mainColor);
+    
+}
+.image{
+    margin: 16px -22px 0px 78px;
+}
